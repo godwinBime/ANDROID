@@ -1,0 +1,12 @@
+com.example.android.fragmentexample.app-pngs-0 C:\RESEARCH-AND-PROJECT\PROJOCTS\JAVA\ANDROID\FragmentCommnuicate\app\build\generated\res\pngs\debug
+com.example.android.fragmentexample.app-resValues-1 C:\RESEARCH-AND-PROJECT\PROJOCTS\JAVA\ANDROID\FragmentCommnuicate\app\build\generated\res\resValues\debug
+com.example.android.fragmentexample.app-rs-2 C:\RESEARCH-AND-PROJECT\PROJOCTS\JAVA\ANDROID\FragmentCommnuicate\app\build\generated\res\rs\debug
+com.example.android.fragmentexample.app-mergeDebugResources-3 C:\RESEARCH-AND-PROJECT\PROJOCTS\JAVA\ANDROID\FragmentCommnuicate\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.android.fragmentexample.app-mergeDebugResources-4 C:\RESEARCH-AND-PROJECT\PROJOCTS\JAVA\ANDROID\FragmentCommnuicate\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.android.fragmentexample.app-merged_res-5 C:\RESEARCH-AND-PROJECT\PROJOCTS\JAVA\ANDROID\FragmentCommnuicate\app\build\intermediates\merged_res\debug
+com.example.android.fragmentexample.app-debug-6 C:\RESEARCH-AND-PROJECT\PROJOCTS\JAVA\ANDROID\FragmentCommnuicate\app\src\debug\res
+com.example.android.fragmentexample.app-main-7 C:\RESEARCH-AND-PROJECT\PROJOCTS\JAVA\ANDROID\FragmentCommnuicate\app\src\main\res
+com.example.android.fragmentexample.app-appcompat-v7-26.0.1-8 C:\Users\Godwin\.gradle\caches\transforms-3\1c525db32adfa782ae8736c3350d3fb7\transformed\appcompat-v7-26.0.1\res
+com.example.android.fragmentexample.app-support-compat-26.0.1-9 C:\Users\Godwin\.gradle\caches\transforms-3\c97131fa0b8504d4c3443a5db76ee9d8\transformed\support-compat-26.0.1\res
+com.example.android.fragmentexample.app-constraint-layout-1.0.2-10 C:\Users\Godwin\.gradle\caches\transforms-3\e1c5180ad5d82d570b4b45111942e96e\transformed\constraint-layout-1.0.2\res
+com.example.android.fragmentexample.app-support-media-compat-26.0.1-11 C:\Users\Godwin\.gradle\caches\transforms-3\f005bc715ff10eea4fd79a7e7f1bb19a\transformed\support-media-compat-26.0.1\res
