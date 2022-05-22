@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SimpleCanvas</string>
+    <string name="keep_tapping">keep tapping</string>
+    <string name="done">Done!</string>
+</resources>
