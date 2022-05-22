@@ -5,6 +5,9 @@ import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.TextView;
+
+import com.example.android.songdetailstart.content.SongUtils;
 
 /**
  * A simple {@link Fragment} subclass.
@@ -12,6 +15,9 @@ import android.view.ViewGroup;
  * create an instance of this fragment.
  */
 public class SongDetailFragment extends Fragment {
+
+    // SongItem includes the song title and detail.
+    public SongUtils.Song mSong;
 
     // TODO: Rename parameter arguments, choose names that match
     // the fragment initialization parameters, e.g. ARG_ITEM_NUMBER
@@ -47,16 +53,30 @@ public class SongDetailFragment extends Fragment {
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        if (getArguments() != null) {
-            mParam1 = getArguments().getString(ARG_PARAM1);
-            mParam2 = getArguments().getString(ARG_PARAM2);
+        if (getArguments().containsKey(SongUtils.SONG_ID_KEY)) {
+            mSong = SongUtils.SONG_ITEMS.get(getArguments().getInt(SongUtils.SONG_ID_KEY));
         }
     }
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
-        // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_song_detail, container, false);
+        View rootView = inflater.inflate(R.layout.song_detail, container, false);
+
+        // Show the detail information in a TextView.
+        if (mSong != null) {
+            ((TextView) rootView.findViewById(R.id.song_detail)).setText(mSong.details);
+        }
+        return rootView;
+    }
+
+    public static SongDetailFragment newInstance(int selectedSong){
+        SongDetailFragment fragment = new SongDetailFragment();
+
+        //Set the bundle arguments for the fragment
+        Bundle arguments = new Bundle();
+        arguments.putInt(SongUtils.SONG_ID_KEY, selectedSong);
+        fragment.setArguments(arguments);
+        return fragment;
     }
 }

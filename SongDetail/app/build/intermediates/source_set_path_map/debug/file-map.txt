@@ -1,0 +1,14 @@
+com.example.android.songdetailstart.app-pngs-0 C:\RESEARCH-AND-PROJECT\PROJOCTS\JAVA\ANDROID\SongDetail\app\build\generated\res\pngs\debug
+com.example.android.songdetailstart.app-resValues-1 C:\RESEARCH-AND-PROJECT\PROJOCTS\JAVA\ANDROID\SongDetail\app\build\generated\res\resValues\debug
+com.example.android.songdetailstart.app-rs-2 C:\RESEARCH-AND-PROJECT\PROJOCTS\JAVA\ANDROID\SongDetail\app\build\generated\res\rs\debug
+com.example.android.songdetailstart.app-mergeDebugResources-3 C:\RESEARCH-AND-PROJECT\PROJOCTS\JAVA\ANDROID\SongDetail\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.android.songdetailstart.app-mergeDebugResources-4 C:\RESEARCH-AND-PROJECT\PROJOCTS\JAVA\ANDROID\SongDetail\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.android.songdetailstart.app-merged_res-5 C:\RESEARCH-AND-PROJECT\PROJOCTS\JAVA\ANDROID\SongDetail\app\build\intermediates\merged_res\debug
+com.example.android.songdetailstart.app-debug-6 C:\RESEARCH-AND-PROJECT\PROJOCTS\JAVA\ANDROID\SongDetail\app\src\debug\res
+com.example.android.songdetailstart.app-main-7 C:\RESEARCH-AND-PROJECT\PROJOCTS\JAVA\ANDROID\SongDetail\app\src\main\res
+com.example.android.songdetailstart.app-appcompat-v7-26.0.1-8 C:\Users\Godwin\.gradle\caches\transforms-3\1c525db32adfa782ae8736c3350d3fb7\transformed\appcompat-v7-26.0.1\res
+com.example.android.songdetailstart.app-recyclerview-v7-26.0.1-9 C:\Users\Godwin\.gradle\caches\transforms-3\4abf1b573134df8b986391c84a29e6aa\transformed\recyclerview-v7-26.0.1\res
+com.example.android.songdetailstart.app-design-26.0.1-10 C:\Users\Godwin\.gradle\caches\transforms-3\7af9179ba42e001620e65ebeab3fcc96\transformed\design-26.0.1\res
+com.example.android.songdetailstart.app-support-compat-26.0.1-11 C:\Users\Godwin\.gradle\caches\transforms-3\c97131fa0b8504d4c3443a5db76ee9d8\transformed\support-compat-26.0.1\res
+com.example.android.songdetailstart.app-support-media-compat-26.0.1-12 C:\Users\Godwin\.gradle\caches\transforms-3\f005bc715ff10eea4fd79a7e7f1bb19a\transformed\support-media-compat-26.0.1\res
+com.example.android.songdetailstart.app-transition-26.0.1-13 C:\Users\Godwin\.gradle\caches\transforms-3\fe99d97409c5cbda812f4b7535d45ba0\transformed\transition-26.0.1\res
