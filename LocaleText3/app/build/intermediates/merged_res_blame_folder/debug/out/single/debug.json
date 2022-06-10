@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "C:\\Users\\Godwin\\.gradle\\daemon\\7.3.3\\com.example.android.localetext.app-merged_res-5:\\menu_menu_main.xml.flat",
+        "source": "C:\\Users\\Godwin\\.gradle\\daemon\\7.3.3\\com.example.android.localetext.app-main-7:\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Godwin\\.gradle\\daemon\\7.3.3\\com.example.android.localetext.app-merged_res-5:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Godwin\\.gradle\\daemon\\7.3.3\\com.example.android.localetext.app-main-7:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Godwin\\.gradle\\daemon\\7.3.3\\com.example.android.localetext.app-merged_res-5:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Godwin\\.gradle\\daemon\\7.3.3\\com.example.android.localetext.app-main-7:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Godwin\\.gradle\\daemon\\7.3.3\\com.example.android.localetext.app-merged_res-5:\\layout_activity_help.xml.flat",
+        "source": "C:\\Users\\Godwin\\.gradle\\daemon\\7.3.3\\com.example.android.localetext.app-main-7:\\layout\\activity_help.xml"
+    },
+    {
+        "merged": "C:\\Users\\Godwin\\.gradle\\daemon\\7.3.3\\com.example.android.localetext.app-merged_res-5:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Godwin\\.gradle\\daemon\\7.3.3\\com.example.android.localetext.app-main-7:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Godwin\\.gradle\\daemon\\7.3.3\\com.example.android.localetext.app-merged_res-5:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Godwin\\.gradle\\daemon\\7.3.3\\com.example.android.localetext.app-main-7:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Godwin\\.gradle\\daemon\\7.3.3\\com.example.android.localetext.app-merged_res-5:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Godwin\\.gradle\\daemon\\7.3.3\\com.example.android.localetext.app-main-7:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Godwin\\.gradle\\daemon\\7.3.3\\com.example.android.localetext.app-merged_res-5:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Godwin\\.gradle\\daemon\\7.3.3\\com.example.android.localetext.app-main-7:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Godwin\\.gradle\\daemon\\7.3.3\\com.example.android.localetext.app-merged_res-5:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Godwin\\.gradle\\daemon\\7.3.3\\com.example.android.localetext.app-main-7:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Godwin\\.gradle\\daemon\\7.3.3\\com.example.android.localetext.app-merged_res-5:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Godwin\\.gradle\\daemon\\7.3.3\\com.example.android.localetext.app-main-7:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Godwin\\.gradle\\daemon\\7.3.3\\com.example.android.localetext.app-merged_res-5:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Godwin\\.gradle\\daemon\\7.3.3\\com.example.android.localetext.app-main-7:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Godwin\\.gradle\\daemon\\7.3.3\\com.example.android.localetext.app-merged_res-5:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Godwin\\.gradle\\daemon\\7.3.3\\com.example.android.localetext.app-main-7:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Godwin\\.gradle\\daemon\\7.3.3\\com.example.android.localetext.app-merged_res-5:\\drawable_nougat.png.flat",
+        "source": "C:\\Users\\Godwin\\.gradle\\daemon\\7.3.3\\com.example.android.localetext.app-main-7:\\drawable\\nougat.png"
+    },
+    {
+        "merged": "C:\\Users\\Godwin\\.gradle\\daemon\\7.3.3\\com.example.android.localetext.app-merged_res-5:\\drawable_france_flag.png.flat",
+        "source": "C:\\Users\\Godwin\\.gradle\\daemon\\7.3.3\\com.example.android.localetext.app-main-7:\\drawable\\france_flag.png"
+    },
+    {
+        "merged": "C:\\Users\\Godwin\\.gradle\\daemon\\7.3.3\\com.example.android.localetext.app-merged_res-5:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Godwin\\.gradle\\daemon\\7.3.3\\com.example.android.localetext.app-main-7:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Godwin\\.gradle\\daemon\\7.3.3\\com.example.android.localetext.app-merged_res-5:\\drawable_united_states_flag.png.flat",
+        "source": "C:\\Users\\Godwin\\.gradle\\daemon\\7.3.3\\com.example.android.localetext.app-main-7:\\drawable\\united_states_flag.png"
+    },
+    {
+        "merged": "C:\\Users\\Godwin\\.gradle\\daemon\\7.3.3\\com.example.android.localetext.app-merged_res-5:\\drawable_israel_flag.png.flat",
+        "source": "C:\\Users\\Godwin\\.gradle\\daemon\\7.3.3\\com.example.android.localetext.app-main-7:\\drawable\\israel_flag.png"
+    },
+    {
+        "merged": "com.example.android.localetext.app-merged_res-5:/layout_content_main.xml.flat",
+        "source": "com.example.android.localetext.app-main-7:/layout/content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Godwin\\.gradle\\daemon\\7.3.3\\com.example.android.localetext.app-merged_res-5:\\layout_content_main.xml.flat",
+        "source": "C:\\Users\\Godwin\\.gradle\\daemon\\7.3.3\\com.example.android.localetext.app-main-7:\\layout\\content_main.xml"
+    }
+]
