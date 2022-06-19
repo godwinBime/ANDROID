@@ -1,0 +1,4 @@
+#Sun Jun 19 00:27:00 EDT 2022
+base.0=C\:\\RESEARCH-AND-PROJECT\\PROJECTS\\JAVA\\ANDROID\\WalkMyAndroidPlaces-Starter\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
