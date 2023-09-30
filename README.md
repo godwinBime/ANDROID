@@ -1,0 +1,2 @@
+Reference:
+- Amazon.com: Kickstart Modern Android Development with Jetpack and Kotlin: Enhance your applications by integrating Jetpack and applying modern app architectural concepts eBook : Ghita, Catalin: Kindle Store. (n.d.). https://www.amazon.com/dp/B09S11S2BJ/?coliid=IXIMRZI258Q1S&colid=38HAOM772O1YE&psc=0&ref_=list_c_wl_lv_ov_lig_dp_ii
